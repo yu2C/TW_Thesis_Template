@@ -1,0 +1,80 @@
+\documentclass[class=NCU_thesis, crop=false]{standalone}
+
+\begin{document}
+\chapter{Letters bot}
+
+Here try to insert some information automatically.
+If you need change font size or position, modify appendix\_letter\_NCU.tex and compile this single tex file.
+
+In appendix\_letter\_NCU.tex, you will see \textbackslash{}placetextbox for every string.
+\begin{lstlisting}[style=LatexStyle,caption={}]
+\placetextbox{x(mm)}{y(mm)}
+\end{lstlisting}
+
+The unit is mm , origin at bottom left. I recommend add ``colorgrid'' option to ``\textbackslash{}documentclass'' for positioning. e.g. In this tex file (appendix\_letter\_NCU.tex):
+
+\begin{lstlisting}[style=LatexStyle,caption={}]
+\documentclass[class=NCU_thesis, crop=false, colorgrid]{standalone}
+\end{lstlisting}
+
+``colorgrid'' will display a grid with mm unit. 
+
+\begin{center}
+{ \noindent\color{red}\bfseries\Large NCU 中文文件位於 NCU\_zh}
+\end{center}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% define \mprof 
+\ExplSyntaxOn
+    % Copy prof. list from config.tex
+    \clist_gclear_new:N \g_sppmg_profs_cl
+    \clist_gset:NV \g_sppmg_profs_cl \profs
+    \clist_gpop:NNTF \g_sppmg_profs_cl \l_tmpa_tl {}{ \tl_clear:N \l_tmpa_tl}
+    \cs_gset_eq:NN \mprof \l_tmpa_tl
+\ExplSyntaxOff
+
+% Define local variable (e.g. cover use \titleZh for \title but letters use \titleEn )
+\def\title{\titleEn}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\cleardoublepage
+\pagestyle{empty}
+\sffamily
+% ------------------------------
+
+% 碩博士論文電子檔授權書
+\IfFileExists{\letterAuthEl}{
+\cleardoublepage\thispagestyle{empty}
+\includepdf[pagecommand={   \placetextbox{115}{87}{\fs{14}\title}%
+                            \placetextbox{100}{81}{\fs{14}\mprof}%
+                            \placetextbox{85}{70}{\fs{14}\deptshort} }]%
+{\letterAuthEl}}{}
+
+% 碩博士紙本論文延後公開/下架申請書。(如需延後公開者,才需要裝訂於論文內頁)
+\IfFileExists{\letterPubReq}{
+\cleardoublepage\thispagestyle{empty}
+\includepdf[pagecommand={   \placetextbox{128}{269}{\fs{14}\author}%
+                            \placetextbox{70}{255}{\fs{14}\deptshort}%
+                            \placetextbox{100}{231}{\fs{14}\title}%
+                            \placetextbox{90}{218.3}{\fs{14}\mprof} }]%
+{\letterPubReq}}{}
+
+% 指導教授推薦書
+\IfFileExists{\letterRecom}{
+\cleardoublepage\thispagestyle{empty}
+\includepdf[pagecommand={   \placetextbox{75}{204}{\fs{16}\deptshort}%
+                            \placetextbox{90}{218}{\fs{16}\author}%
+                            \placetextbox{105}{192}{\fs{16}\title}}%
+]{\letterRecom}}{}
+
+% 口試委員審定書
+\IfFileExists{\letterVerif}{
+\cleardoublepage\thispagestyle{empty}
+\includepdf[pagecommand={   \placetextbox{75}{184}{\fs{16}\deptshort}%
+                            \placetextbox{91}{200}{\fs{16}\author}%
+                            \placetextbox{100}{170}{\fs{16}\title}}%
+]{\letterVerif}}{}
+
+% ------------------------------
+\pagestyle{fancy}
+\end{document}

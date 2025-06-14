@@ -1,0 +1,21 @@
+\documentclass[class=NCU_thesis, crop=false]{standalone}
+\begin{document}
+
+\chapter{Glossary}
+Use table for symbol list. You can also use package ``nomencl'' (simple) or ``glossaries'' (powerful). see packages document or my tutorial (but it's Chinese).
+
+\begin{table}[h]
+    \normalsize
+    \centering
+    \begin{tabular}{c@{\quad:\quad}l}
+%         Symbol  & Description \\ 
+        VIM     & The best guy's editor \\ 
+        Emacs   & The God's editor \\ 
+        CTAN    & Comprehensive TeX Archive Network, ctan.org \\
+        
+    \end{tabular} 
+    \caption*{Glossary} % Hide caption by comment/remove it, label will inactive also. 不想顯示請註解/刪除\caption行(\label自動失效)
+    \label{table:glossary_def}
+\end{table}
+
+\end{document}
