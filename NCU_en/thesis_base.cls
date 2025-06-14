@@ -123,7 +123,8 @@
     %%%
     \ifx\CJKsansfont\empty
         \ifthenelse{\equal{\OS}{linux}}{
-            \def\CJKsansfont{AR PL UKai TW}  % 楷體
+            % \def\CJKsansfont{AR PL UKai TW}  % 楷體
+            \def\CJKsansfont{AR PL KaitiM Big5}  % 楷體
         }{
             \ifthenelse{\equal{\OS}{mac}}{
                 \def\CJKsansfont{Kaiti TC Regular}  % 楷體-繁

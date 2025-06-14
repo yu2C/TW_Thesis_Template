@@ -4,40 +4,39 @@
 % 1. BibTeX: Change bib files in \bibliography{}
 % 2. biber / BibLaTeX: Add bibliography by \addbibresource{bibfile.bib} in macros_preamble.tex
 
-\documentclass[class=NCU_thesis, crop=false]{standalone}
+\documentclass[class=NTNU_thesis, crop=false]{standalone}
 
 \begin{document}
 
 \ifcase \bibManType 
     % 0 == Embedded %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
     {\bibFontStyle\setstretch{\bibLineStretch}
-    \begin{thebibliography}{99}
+        \begin{thebibliography}{99}
 
-    \bibitem{cite_key_1}
-        bibliography item detail.
+            \bibitem{cite_key_1}
+            bibliography item detail.
 
-    \bibitem{_sppmg/tw_thesis_template_????}
-        TW\_Thesis\_Template,
-        sppmg,
-        \url{https://github.com/sppmg/TW_Thesis_Template},
-        Embedded bibliography demo.
+            \bibitem{_sppmg/tw_thesis_template_????}
+            TW\_Thesis\_Template,
+            sppmg,
+            \url{https://github.com/sppmg/TW_Thesis_Template},
+            Embedded bibliography demo.
 
-    \end{thebibliography}
+        \end{thebibliography}
     }
-    
+
 \or
     % 1 == BibTeX %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
     \bibliographystyle{\bibStyle}
     {\bibFontStyle\setstretch{\bibLineStretch}
-        \bibliography{demo} % {sample_1,sample_2,...,sample_n}
+        \bibliography{demo,FHE} % {sample_1,sample_2,...,sample_n}
         % Note the lack of whitespace between the commas and the next bib file.
     }
 \or
 
     % 2 == biber / BibLaTeX %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+    \nocite{*} % 顯示所有參考文獻，即使未被引用
     \printbibliography[heading = bibnumbered]
 \fi
-
-
 
 \end{document}

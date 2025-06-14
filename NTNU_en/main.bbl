@@ -16,5 +16,1184 @@
   {}
 \endgroup
 
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global/global}
+    \entry{_sppmg/tw_thesis_template_????}{online}{}{}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labeltitlesource}{title}
+      \field{abstract}{{TW}\_Thesis\_Template - The {LaTeX} Template for Thesis}
+      \field{title}{sppmg/{TW}\_Thesis\_Template}
+      \field{titleaddon}{{GitHub}}
+      \field{urlday}{23}
+      \field{urlmonth}{10}
+      \field{urlyear}{2016}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Snapshot:/home/sppmg/.mozilla/firefox/onxyd4fz.zoteroDemo/zotero/storage/73ZETBNK/TW_Thesis_Template.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://github.com/sppmg/TW_Thesis_Template
+      \endverb
+      \verb{url}
+      \verb https://github.com/sppmg/TW_Thesis_Template
+      \endverb
+    \endentry
+    \entry{yang_review_2023}{article}{}{}
+      \name{author}{5}{}{%
+        {{hash=2d4768e2825a316249a89f34d3ea6dbd}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Wencheng},
+           giveni={W\bibinitperiod}}}%
+        {{hash=7d19e678c72662459bbdb25f3e207dee}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Song},
+           giveni={S\bibinitperiod}}}%
+        {{hash=0d21d71374752622bdea721874c75200}{%
+           family={Cui},
+           familyi={C\bibinitperiod},
+           given={Hui},
+           giveni={H\bibinitperiod}}}%
+        {{hash=491bb619a5f7a0970554c7154805823f}{%
+           family={Tang},
+           familyi={T\bibinitperiod},
+           given={Zhaohui},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=92e14a8c19eb5a0c7c199c85db74f106}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Yan},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \strng{namehash}{716983b617460077e2d427268063f706}
+      \strng{fullhash}{668144d5cd32557e420c99024ac6bab4}
+      \strng{fullhashraw}{668144d5cd32557e420c99024ac6bab4}
+      \strng{bibnamehash}{668144d5cd32557e420c99024ac6bab4}
+      \strng{authorbibnamehash}{668144d5cd32557e420c99024ac6bab4}
+      \strng{authornamehash}{716983b617460077e2d427268063f706}
+      \strng{authorfullhash}{668144d5cd32557e420c99024ac6bab4}
+      \strng{authorfullhashraw}{668144d5cd32557e420c99024ac6bab4}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The advancement of biometric technology has facilitated wide applications of biometrics in law enforcement, border control, healthcare and financial identification and verification. Given the peculiarity of biometric features (e.g., unchangeability, permanence and uniqueness), the security of biometric data is a key area of research. Security and privacy are vital to enacting integrity, reliability and availability in biometric-related applications. Homomorphic encryption ({HE}) is concerned with data manipulation in the cryptographic domain, thus addressing the security and privacy issues faced by biometrics. This survey provides a comprehensive review of state-of-the-art {HE} research in the context of biometrics. Detailed analyses and discussions are conducted on various {HE} approaches to biometric security according to the categories of different biometric traits. Moreover, this review presents the perspective of integrating {HE} with other emerging technologies (e.g., machine/deep learning and blockchain) for biometric security. Finally, based on the latest development of {HE} in biometrics, challenges and future research directions are put forward.}
+      \field{issn}{1424-8220}
+      \field{journaltitle}{Sensors}
+      \field{langid}{english}
+      \field{month}{1}
+      \field{note}{Number: 7 Publisher: Multidisciplinary Digital Publishing Institute}
+      \field{number}{7}
+      \field{title}{A Review of Homomorphic Encryption for Privacy-Preserving Biometrics}
+      \field{urlday}{22}
+      \field{urlmonth}{7}
+      \field{urlyear}{2024}
+      \field{volume}{23}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{3566}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/s23073566
+      \endverb
+      \verb{file}
+      \verb Yang et al_2023_A Review of Homomorphic Encryption for Privacy-Preserving Biometrics.pdf:C\:\\Users\\a0909\\Zotero\\storage\\IIA9RTFB\\Yang et al_2023_A Review of Homomorphic Encryption for Privacy-Preserving Biometrics.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.mdpi.com/1424-8220/23/7/3566
+      \endverb
+      \verb{url}
+      \verb https://www.mdpi.com/1424-8220/23/7/3566
+      \endverb
+      \keyw{homomorphic encryption,biometric security,biometrics,privacy,privacy preserving}
+    \endentry
+    \entry{aslett_encrypted_2015}{misc}{}{}
+      \name{author}{3}{}{%
+        {{hash=43944ab5088383d4c6accef33172f37f}{%
+           family={Aslett},
+           familyi={A\bibinitperiod},
+           given={Louis\bibnamedelimb J.\bibnamedelimi M.},
+           giveni={L\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=58528a2a23c63ae34dc6506c84267940}{%
+           family={Esperança},
+           familyi={E\bibinitperiod},
+           given={Pedro\bibnamedelima M.},
+           giveni={P\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=0f4bc87069683fd054a8105cf1f294ad}{%
+           family={Holmes},
+           familyi={H\bibinitperiod},
+           given={Chris\bibnamedelima C.},
+           giveni={C\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {arXiv}%
+      }
+      \strng{namehash}{74cdd9eadf59a74c0415ad4c805c2be1}
+      \strng{fullhash}{80192f2c5c9f8da9c414be27a87f636c}
+      \strng{fullhashraw}{80192f2c5c9f8da9c414be27a87f636c}
+      \strng{bibnamehash}{80192f2c5c9f8da9c414be27a87f636c}
+      \strng{authorbibnamehash}{80192f2c5c9f8da9c414be27a87f636c}
+      \strng{authornamehash}{74cdd9eadf59a74c0415ad4c805c2be1}
+      \strng{authorfullhash}{80192f2c5c9f8da9c414be27a87f636c}
+      \strng{authorfullhashraw}{80192f2c5c9f8da9c414be27a87f636c}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{We present two new statistical machine learning methods designed to learn on fully homomorphic encrypted ({FHE}) data. The introduction of {FHE} schemes following Gentry (2009) opens up the prospect of privacy preserving statistical machine learning analysis and modelling of encrypted data without compromising security constraints. We propose tailored algorithms for applying extremely random forests, involving a new cryptographic stochastic fraction estimator, and na¨ıve Bayes, involving a semi-parametric model for the class decision boundary, and show how they can be used to learn and predict from encrypted data. We demonstrate that these techniques perform competitively on a variety of classiﬁcation data sets and provide detailed information about the computational practicalities of these and other {FHE} methods.}
+      \field{day}{27}
+      \field{eprinttype}{arxiv}
+      \field{langid}{english}
+      \field{month}{8}
+      \field{number}{{arXiv}:1508.06845}
+      \field{shorttitle}{Encrypted statistical machine learning}
+      \field{title}{Encrypted statistical machine learning: new privacy preserving methods}
+      \field{urlday}{13}
+      \field{urlmonth}{8}
+      \field{urlyear}{2024}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{eprint}
+      \verb 1508.06845 [cs, stat]
+      \endverb
+      \verb{file}
+      \verb Aslett 等。 - 2015 - Encrypted statistical machine learning new privac.pdf:C\:\\Users\\a0909\\Zotero\\storage\\YMNLHCIR\\Aslett 等。 - 2015 - Encrypted statistical machine learning new privac.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://arxiv.org/abs/1508.06845
+      \endverb
+      \verb{url}
+      \verb http://arxiv.org/abs/1508.06845
+      \endverb
+      \keyw{Computer Science - Machine Learning,Computer Science - Cryptography and Security,Statistics - Machine Learning,Statistics - Methodology}
+    \endentry
+    \entry{__????}{online}{}{}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labeltitlesource}{title}
+      \field{title}{大家來學 {LaTeX}, latex123}
+      \field{urlday}{10}
+      \field{urlmonth}{10}
+      \field{urlyear}{2016}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{file}
+      \verb 大家來學 LaTeX, latex123:/home/sppmg/.mozilla/firefox/onxyd4fz.zoteroDemo/zotero/storage/8JMIVZ4A/latex123.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb http://www.cs.pu.edu.tw/~wckuo/doc/latex123/latex123.html
+      \endverb
+      \verb{url}
+      \verb http://www.cs.pu.edu.tw/~wckuo/doc/latex123/latex123.html
+      \endverb
+    \endentry
+    \entry{mittelbach_latex_2004}{book}{}{}
+      \name{author}{5}{}{%
+        {{hash=9355edd511e3f6fdd880ee98722a53fb}{%
+           family={Mittelbach},
+           familyi={M\bibinitperiod},
+           given={Frank},
+           giveni={F\bibinitperiod}}}%
+        {{hash=0743efb276e9219ee664a9b3dbd60619}{%
+           family={Goossens},
+           familyi={G\bibinitperiod},
+           given={Michel},
+           giveni={M\bibinitperiod}}}%
+        {{hash=d52f183a29af96d48695b8bea23e66e1}{%
+           family={Braams},
+           familyi={B\bibinitperiod},
+           given={Johannes},
+           giveni={J\bibinitperiod}}}%
+        {{hash=3094f4812cc660f7320fd1ab3d3da906}{%
+           family={Carlisle},
+           familyi={C\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+        {{hash=0907be26d21af9e9c3820d51f421fe33}{%
+           family={Rowley},
+           familyi={R\bibinitperiod},
+           given={Chris},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Boston}%
+      }
+      \list{publisher}{1}{%
+        {Addison-Wesley Professional}%
+      }
+      \strng{namehash}{f6d3f5d3a9cc39507a7ff2f9963883dc}
+      \strng{fullhash}{81b7ecc7e76086895ab856756307e8bc}
+      \strng{fullhashraw}{81b7ecc7e76086895ab856756307e8bc}
+      \strng{bibnamehash}{81b7ecc7e76086895ab856756307e8bc}
+      \strng{authorbibnamehash}{81b7ecc7e76086895ab856756307e8bc}
+      \strng{authornamehash}{f6d3f5d3a9cc39507a7ff2f9963883dc}
+      \strng{authorfullhash}{81b7ecc7e76086895ab856756307e8bc}
+      \strng{authorfullhashraw}{81b7ecc7e76086895ab856756307e8bc}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This is the digial version of the printed book (Copyright © 2004). The {LaTeX} Companion has long been the essential resource for anyone using {LaTeX} to create high-quality printed documents. This completely updated edition brings you all the latest information about {LaTeX} and the vast range of add-on packages now available--over 200 are covered! Full of new tips and tricks for using {LaTeX} in both traditional and modern typesetting, this book will also show you how to customize layout features to your own needs--from phrases and paragraphs to headings, lists, and pages. Inside, you will find: Expert advice on using {LaTeX}'s basic formatting tools to create all types of publications--from memos to encyclopedias In-depth coverage of important extension packages for tabular and technical typesetting, floats and captions, multicolumn layouts--including reference guides and discussions of the underlying typographic and {TeXnical} concepts Detailed techniques for generating and typesetting contents lists, bibliographies, indexes, etc. Tips and tricks for {LaTeX} programmers and systems support New to this edition: Nearly 1,000 fully tested examples that illustrate the text and solve typographical and technical problems--all ready to run! An additional chapter on citations and bibliographies Expanded material on the setup and use of fonts to access a huge collection of glyphs, and to typeset text from a wide range of languages and cultures Major new packages for graphics, "verbatim" listings, floats, and page layout Full coverage of the latest packages for all types ofdocuments--mathematical, multilingual, and many more Detailed help on all error messages, including those troublesome low-level {TeX} errors Like its predecessor, The {LaTeX} Companion, Second Edition, is an indispensable reference for anyone wishing to use {LaTeX} productively. The accompanying {CD}-{ROM} contains a complete plug-and-play {LaTeX} installation, including all the packages and examples featured in the book.}
+      \field{day}{2}
+      \field{edition}{2nd edition}
+      \field{isbn}{978-0-201-36299-2}
+      \field{month}{5}
+      \field{pagetotal}{1120}
+      \field{title}{The {LaTeX} Companion}
+      \field{year}{2004}
+      \field{dateera}{ce}
+      \true{nocite}
+    \endentry
+    \entry{session_genome_2016}{article}{}{}
+      \name{author}{74}{}{%
+        {{hash=431465fe63bf30144aa4770f5da3f792}{%
+           family={Session},
+           familyi={S\bibinitperiod},
+           given={Adam\bibnamedelima M.},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=3ff680946d4a3d1aa613a66f8d751a42}{%
+           family={Uno},
+           familyi={U\bibinitperiod},
+           given={Yoshinobu},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=f970b3d1b6cdca327b77838644ba87f6}{%
+           family={Kwon},
+           familyi={K\bibinitperiod},
+           given={Taejoon},
+           giveni={T\bibinitperiod}}}%
+        {{hash=2be8e589266cdf3cd9424a46d89baf37}{%
+           family={Chapman},
+           familyi={C\bibinitperiod},
+           given={Jarrod\bibnamedelima A.},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=2b1ff4135b38b901e9d8a347a4efe4e5}{%
+           family={Toyoda},
+           familyi={T\bibinitperiod},
+           given={Atsushi},
+           giveni={A\bibinitperiod}}}%
+        {{hash=1e243f6bd0409046a3c533263541c7e2}{%
+           family={Takahashi},
+           familyi={T\bibinitperiod},
+           given={Shuji},
+           giveni={S\bibinitperiod}}}%
+        {{hash=fa54892a98115c68e5a0cb11d8a6f23f}{%
+           family={Fukui},
+           familyi={F\bibinitperiod},
+           given={Akimasa},
+           giveni={A\bibinitperiod}}}%
+        {{hash=7adb56c886ebc618bd5c8d923e2d0d31}{%
+           family={Hikosaka},
+           familyi={H\bibinitperiod},
+           given={Akira},
+           giveni={A\bibinitperiod}}}%
+        {{hash=535b63082a2cf15160f6ed3b4f6dfc35}{%
+           family={Suzuki},
+           familyi={S\bibinitperiod},
+           given={Atsushi},
+           giveni={A\bibinitperiod}}}%
+        {{hash=f19ddf0bfdf674f5968ad60942c8ce59}{%
+           family={Kondo},
+           familyi={K\bibinitperiod},
+           given={Mariko},
+           giveni={M\bibinitperiod}}}%
+        {{hash=96162681ea66d664af0631813a7f437d}{%
+           family={Heeringen},
+           familyi={H\bibinitperiod},
+           given={Simon\bibnamedelima J.},
+           giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod},
+           prefix={van},
+           prefixi={v\bibinitperiod}}}%
+        {{hash=05ffef0ec554d29ed607e512b173ab95}{%
+           family={Quigley},
+           familyi={Q\bibinitperiod},
+           given={Ian},
+           giveni={I\bibinitperiod}}}%
+        {{hash=3445df86666f11debd7b1ecdecfb3c51}{%
+           family={Heinz},
+           familyi={H\bibinitperiod},
+           given={Sven},
+           giveni={S\bibinitperiod}}}%
+        {{hash=0b42cd58f165f16386d21ee4ef37e008}{%
+           family={Ogino},
+           familyi={O\bibinitperiod},
+           given={Hajime},
+           giveni={H\bibinitperiod}}}%
+        {{hash=1faacd1069ac90c2c6c4ed8d41dbc760}{%
+           family={Ochi},
+           familyi={O\bibinitperiod},
+           given={Haruki},
+           giveni={H\bibinitperiod}}}%
+        {{hash=10f3437b972c980b3cb2c2780032967d}{%
+           family={Hellsten},
+           familyi={H\bibinitperiod},
+           given={Uffe},
+           giveni={U\bibinitperiod}}}%
+        {{hash=cfc254fe3a387121ddfe0b45ad7c0521}{%
+           family={Lyons},
+           familyi={L\bibinitperiod},
+           given={Jessica\bibnamedelima B.},
+           giveni={J\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=8144c2f71d07ca11d324dc7eae06e647}{%
+           family={Simakov},
+           familyi={S\bibinitperiod},
+           given={Oleg},
+           giveni={O\bibinitperiod}}}%
+        {{hash=dda1dfc0da622f87b9fe955c4ae0a5ca}{%
+           family={Putnam},
+           familyi={P\bibinitperiod},
+           given={Nicholas},
+           giveni={N\bibinitperiod}}}%
+        {{hash=917be04ad9e75285658604add8922505}{%
+           family={Stites},
+           familyi={S\bibinitperiod},
+           given={Jonathan},
+           giveni={J\bibinitperiod}}}%
+        {{hash=e0ffca3d290b8e075af613730bb39ed6}{%
+           family={Kuroki},
+           familyi={K\bibinitperiod},
+           given={Yoko},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=c60d0ca8c89375a2d4eda4df0509eedc}{%
+           family={Tanaka},
+           familyi={T\bibinitperiod},
+           given={Toshiaki},
+           giveni={T\bibinitperiod}}}%
+        {{hash=c7b62945ac3e43682282c12c1786d944}{%
+           family={Michiue},
+           familyi={M\bibinitperiod},
+           given={Tatsuo},
+           giveni={T\bibinitperiod}}}%
+        {{hash=1df953680383051791db6122781dc5e5}{%
+           family={Watanabe},
+           familyi={W\bibinitperiod},
+           given={Minoru},
+           giveni={M\bibinitperiod}}}%
+        {{hash=b7517a448d1f13ce1aa0228ad03cf79f}{%
+           family={Bogdanovic},
+           familyi={B\bibinitperiod},
+           given={Ozren},
+           giveni={O\bibinitperiod}}}%
+        {{hash=4d6320a48748328ebd1c90e3ddcba997}{%
+           family={Lister},
+           familyi={L\bibinitperiod},
+           given={Ryan},
+           giveni={R\bibinitperiod}}}%
+        {{hash=46992e306da04eec26a8d12ca61079cc}{%
+           family={Georgiou},
+           familyi={G\bibinitperiod},
+           given={Georgios},
+           giveni={G\bibinitperiod}}}%
+        {{hash=d90385426458cec550db4509cadb4495}{%
+           family={Paranjpe},
+           familyi={P\bibinitperiod},
+           given={Sarita\bibnamedelima S.},
+           giveni={S\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=0f23d2921105f2f738ddeb54123059fe}{%
+           family={Kruijsbergen},
+           familyi={K\bibinitperiod},
+           given={Ila},
+           giveni={I\bibinitperiod},
+           prefix={van},
+           prefixi={v\bibinitperiod}}}%
+        {{hash=955f0145e680da86ee50dabe50d364e0}{%
+           family={Shu},
+           familyi={S\bibinitperiod},
+           given={Shengquiang},
+           giveni={S\bibinitperiod}}}%
+        {{hash=bff8e2f4d689aad047ca1649b1331e80}{%
+           family={Carlson},
+           familyi={C\bibinitperiod},
+           given={Joseph},
+           giveni={J\bibinitperiod}}}%
+        {{hash=78a0f091d305ead61710b2dcd89511f1}{%
+           family={Kinoshita},
+           familyi={K\bibinitperiod},
+           given={Tsutomu},
+           giveni={T\bibinitperiod}}}%
+        {{hash=71df95161488aa80cc1e843f1c836f81}{%
+           family={Ohta},
+           familyi={O\bibinitperiod},
+           given={Yuko},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=cdc573e3201c90554c754f658d17ac0c}{%
+           family={Mawaribuchi},
+           familyi={M\bibinitperiod},
+           given={Shuuji},
+           giveni={S\bibinitperiod}}}%
+        {{hash=d0675e89820aca4bec3caa7d7e5d35ae}{%
+           family={Jenkins},
+           familyi={J\bibinitperiod},
+           given={Jerry},
+           giveni={J\bibinitperiod}}}%
+        {{hash=48a6a0b8665d337898f11c615bc0e2a0}{%
+           family={Grimwood},
+           familyi={G\bibinitperiod},
+           given={Jane},
+           giveni={J\bibinitperiod}}}%
+        {{hash=5808456e02e319e0a91a94ab95c14a1c}{%
+           family={Schmutz},
+           familyi={S\bibinitperiod},
+           given={Jeremy},
+           giveni={J\bibinitperiod}}}%
+        {{hash=a8fb80543a3c98bc79275ecd68211b7b}{%
+           family={Mitros},
+           familyi={M\bibinitperiod},
+           given={Therese},
+           giveni={T\bibinitperiod}}}%
+        {{hash=a95e6264dbcc52617194e8257132afd8}{%
+           family={Mozaffari},
+           familyi={M\bibinitperiod},
+           given={Sahar\bibnamedelima V.},
+           giveni={S\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+        {{hash=1c624aa87752c597736d5db939959781}{%
+           family={Suzuki},
+           familyi={S\bibinitperiod},
+           given={Yutaka},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=4f8b23508eb5b8c16d4e55eb4eeb8975}{%
+           family={Haramoto},
+           familyi={H\bibinitperiod},
+           given={Yoshikazu},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=7a23bd3556ce47b33ab5cbd49b164fe4}{%
+           family={Yamamoto},
+           familyi={Y\bibinitperiod},
+           given={Takamasa\bibnamedelima S.},
+           giveni={T\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=961fd7a32e39a86dcc1cf960fa0b7eee}{%
+           family={Takagi},
+           familyi={T\bibinitperiod},
+           given={Chiyo},
+           giveni={C\bibinitperiod}}}%
+        {{hash=8f3bb258bb06846d54b421d7d3521505}{%
+           family={Heald},
+           familyi={H\bibinitperiod},
+           given={Rebecca},
+           giveni={R\bibinitperiod}}}%
+        {{hash=a4564791a100c0adba6db6384fe57b82}{%
+           family={Miller},
+           familyi={M\bibinitperiod},
+           given={Kelly},
+           giveni={K\bibinitperiod}}}%
+        {{hash=85b3738bdc7ceb172fa33819d87408b1}{%
+           family={Haudenschild},
+           familyi={H\bibinitperiod},
+           given={Christian},
+           giveni={C\bibinitperiod}}}%
+        {{hash=e23c04696044cf54ef038fb80c9ec0a4}{%
+           family={Kitzman},
+           familyi={K\bibinitperiod},
+           given={Jacob},
+           giveni={J\bibinitperiod}}}%
+        {{hash=cf3da4cab6d1b83b278c6fee0e550342}{%
+           family={Nakayama},
+           familyi={N\bibinitperiod},
+           given={Takuya},
+           giveni={T\bibinitperiod}}}%
+        {{hash=66636964b5c85ac023a00e4558d68aaf}{%
+           family={Izutsu},
+           familyi={I\bibinitperiod},
+           given={Yumi},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=09d9ef93f15ad51ff62464f9bbfbfdd3}{%
+           family={Robert},
+           familyi={R\bibinitperiod},
+           given={Jacques},
+           giveni={J\bibinitperiod}}}%
+        {{hash=bb2837b7540ec8d3acce1ec73063e972}{%
+           family={Fortriede},
+           familyi={F\bibinitperiod},
+           given={Joshua},
+           giveni={J\bibinitperiod}}}%
+        {{hash=cbb60f0f2a6b5434b395215662e7f051}{%
+           family={Burns},
+           familyi={B\bibinitperiod},
+           given={Kevin},
+           giveni={K\bibinitperiod}}}%
+        {{hash=45fb1da1832b6bd053e6e98036a642e0}{%
+           family={Lotay},
+           familyi={L\bibinitperiod},
+           given={Vaneet},
+           giveni={V\bibinitperiod}}}%
+        {{hash=06169bb9b81429f8932262058096bb63}{%
+           family={Karimi},
+           familyi={K\bibinitperiod},
+           given={Kamran},
+           giveni={K\bibinitperiod}}}%
+        {{hash=849203455aab57a8c5f200aba01c22da}{%
+           family={Yasuoka},
+           familyi={Y\bibinitperiod},
+           given={Yuuri},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=d11c9098e0bf0a996e91d884fbb6ba5a}{%
+           family={Dichmann},
+           familyi={D\bibinitperiod},
+           given={Darwin\bibnamedelima S.},
+           giveni={D\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=349e2423a9b48a3f5c185d01c449c1e6}{%
+           family={Flajnik},
+           familyi={F\bibinitperiod},
+           given={Martin\bibnamedelima F.},
+           giveni={M\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=ea0ebce2bde3edc7b5f55ef7f6f03a41}{%
+           family={Houston},
+           familyi={H\bibinitperiod},
+           given={Douglas\bibnamedelima W.},
+           giveni={D\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=5a50df52643f6bba00616c104eda3653}{%
+           family={Shendure},
+           familyi={S\bibinitperiod},
+           given={Jay},
+           giveni={J\bibinitperiod}}}%
+        {{hash=96fd5c61c5989637e513138fd0e07a71}{%
+           family={{DuPasquier}},
+           familyi={D\bibinitperiod},
+           given={Louis},
+           giveni={L\bibinitperiod}}}%
+        {{hash=b5bcaeb1da20ec90a1c812d4bf3bb6b2}{%
+           family={Vize},
+           familyi={V\bibinitperiod},
+           given={Peter\bibnamedelima D.},
+           giveni={P\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=af0f7dbddb6646542af97392853e496c}{%
+           family={Zorn},
+           familyi={Z\bibinitperiod},
+           given={Aaron\bibnamedelima M.},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=073dfe20935a833a511514128bf64715}{%
+           family={Ito},
+           familyi={I\bibinitperiod},
+           given={Michihiko},
+           giveni={M\bibinitperiod}}}%
+        {{hash=e4884cd4c7f3d71ad525a3a63952c3c0}{%
+           family={Marcotte},
+           familyi={M\bibinitperiod},
+           given={Edward\bibnamedelima M.},
+           giveni={E\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=06c7a5adf5ca91b2a41ff3293f81b4ae}{%
+           family={Wallingford},
+           familyi={W\bibinitperiod},
+           given={John\bibnamedelima B.},
+           giveni={J\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=1d876cb9917e8526d71f05ed80c7922c}{%
+           family={Ito},
+           familyi={I\bibinitperiod},
+           given={Yuzuru},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=fd922f6d93af9160364a34e8ae4a4f5d}{%
+           family={Asashima},
+           familyi={A\bibinitperiod},
+           given={Makoto},
+           giveni={M\bibinitperiod}}}%
+        {{hash=d609839d0e8146d2bdef04ccedec1eff}{%
+           family={Ueno},
+           familyi={U\bibinitperiod},
+           given={Naoto},
+           giveni={N\bibinitperiod}}}%
+        {{hash=1ccf82efe3610da1b1883625d473f54c}{%
+           family={Matsuda},
+           familyi={M\bibinitperiod},
+           given={Yoichi},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=d523bccec07e8434892b2bc509bdd46e}{%
+           family={Veenstra},
+           familyi={V\bibinitperiod},
+           given={Gert\bibnamedelimb Jan\bibnamedelima C.},
+           giveni={G\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=97dcf9a7f5264d1af72f13cb0112f23c}{%
+           family={Fujiyama},
+           familyi={F\bibinitperiod},
+           given={Asao},
+           giveni={A\bibinitperiod}}}%
+        {{hash=2d2040677d3020727639afb2befbac6c}{%
+           family={Harland},
+           familyi={H\bibinitperiod},
+           given={Richard\bibnamedelima M.},
+           giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=c67bbef477b779f10dcaad047c01bf62}{%
+           family={Taira},
+           familyi={T\bibinitperiod},
+           given={Masanori},
+           giveni={M\bibinitperiod}}}%
+        {{hash=58661a84d7a3dba8066f5de19b660fdf}{%
+           family={Rokhsar},
+           familyi={R\bibinitperiod},
+           given={Daniel\bibnamedelima S.},
+           giveni={D\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \strng{namehash}{2fc58f034f070fed31b19e049100ce6d}
+      \strng{fullhash}{026a355562bcaae1446a1c02be218619}
+      \strng{fullhashraw}{026a355562bcaae1446a1c02be218619}
+      \strng{bibnamehash}{2fc58f034f070fed31b19e049100ce6d}
+      \strng{authorbibnamehash}{2fc58f034f070fed31b19e049100ce6d}
+      \strng{authornamehash}{2fc58f034f070fed31b19e049100ce6d}
+      \strng{authorfullhash}{026a355562bcaae1446a1c02be218619}
+      \strng{authorfullhashraw}{026a355562bcaae1446a1c02be218619}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{To explore the origins and consequences of tetraploidy in the African clawed frog, we sequenced the Xenopus laevis genome and compared it to the related diploid X. tropicalis genome. We characterize the allotetraploid origin of X. laevis by partitioning its genome into two homoeologous subgenomes, marked by distinct families of ‘fossil’ transposable elements. On the basis of the activity of these elements and the age of hundreds of unitary pseudogenes, we estimate that the two diploid progenitor species diverged around 34 million years ago (Ma) and combined to form an allotetraploid around 17–18 Ma. More than 56\% of all genes were retained in two homoeologous copies. Protein function, gene expression, and the amount of conserved flanking sequence all correlate with retention rates. The subgenomes have evolved asymmetrically, with one chromosome set more often preserving the ancestral state and the other experiencing more gene loss, deletion, rearrangement, and reduced gene expression.}
+      \field{day}{20}
+      \field{issn}{0028-0836}
+      \field{journaltitle}{Nature}
+      \field{langid}{english}
+      \field{month}{10}
+      \field{number}{7625}
+      \field{shortjournal}{Nature}
+      \field{title}{Genome evolution in the allotetraploid frog Xenopus laevis}
+      \field{urlday}{24}
+      \field{urlmonth}{10}
+      \field{urlyear}{2016}
+      \field{volume}{538}
+      \field{year}{2016}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{336\bibrangedash 343}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1038/nature19840
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:/home/sppmg/.mozilla/firefox/onxyd4fz.zoteroDemo/zotero/storage/D42SNAPG/Session 等。 - 2016 - Genome evolution in the allotetraploid frog Xenopu.pdf:application/pdf;Snapshot:/home/sppmg/.mozilla/firefox/onxyd4fz.zoteroDemo/zotero/storage/XUBNDCPA/nature19840.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb http://www.nature.com/nature/journal/v538/n7625/full/nature19840.html
+      \endverb
+      \verb{url}
+      \verb http://www.nature.com/nature/journal/v538/n7625/full/nature19840.html
+      \endverb
+      \keyw{Genome evolution,Molecular evolution}
+    \endentry
+    \entry{baruch_methodology_2022}{incollection}{}{}
+      \name{author}{4}{}{%
+        {{hash=576fbfadfb5ef012047f15c80052c032}{%
+           family={Baruch},
+           familyi={B\bibinitperiod},
+           given={Moran},
+           giveni={M\bibinitperiod}}}%
+        {{hash=f2db60487b3c3399ceab52b699a600e7}{%
+           family={Drucker},
+           familyi={D\bibinitperiod},
+           given={Nir},
+           giveni={N\bibinitperiod}}}%
+        {{hash=c1466fdc072cb4fdec5e8c1926b12c1e}{%
+           family={Greenberg},
+           familyi={G\bibinitperiod},
+           given={Lev},
+           giveni={L\bibinitperiod}}}%
+        {{hash=d8d5e856bb2179d93a0fa1bb1fb5c7f0}{%
+           family={Moshkowich},
+           familyi={M\bibinitperiod},
+           given={Guy},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{33e5e6cc74533902c40e5adc8bf99b2c}
+      \strng{fullhash}{e2f3736cf0f9afd063d7e25cb4eaa2bb}
+      \strng{fullhashraw}{e2f3736cf0f9afd063d7e25cb4eaa2bb}
+      \strng{bibnamehash}{e2f3736cf0f9afd063d7e25cb4eaa2bb}
+      \strng{authorbibnamehash}{e2f3736cf0f9afd063d7e25cb4eaa2bb}
+      \strng{authornamehash}{33e5e6cc74533902c40e5adc8bf99b2c}
+      \strng{authorfullhash}{e2f3736cf0f9afd063d7e25cb4eaa2bb}
+      \strng{authorfullhashraw}{e2f3736cf0f9afd063d7e25cb4eaa2bb}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Privacy-preserving deep neural network ({DNN}) inference is a necessity in diﬀerent regulated industries such as healthcare, ﬁnance, and retail. Recently, homomorphic encryption ({HE}) has been used as a method to enable analytics while addressing privacy concerns. {HE} enables secure predictions over encrypted data. However, there are several challenges related to the use of {HE}, including {DNN} size limitations and the lack of support for some operation types. Most notably, the commonly used {ReLU} activation is not supported under some {HE} schemes.}
+      \field{eprinttype}{arxiv}
+      \field{langid}{english}
+      \field{title}{A methodology for training homomorphicencryption friendly neural networks}
+      \field{urlday}{14}
+      \field{urlmonth}{8}
+      \field{urlyear}{2024}
+      \field{volume}{13285}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{536\bibrangedash 553}
+      \range{pages}{18}
+      \verb{doi}
+      \verb 10.1007/978-3-031-16815-4_29
+      \endverb
+      \verb{eprint}
+      \verb 2111.03362 [cs]
+      \endverb
+      \verb{file}
+      \verb Baruch 等。 - 2022 - A methodology for training homomorphicencryption f.pdf:C\:\\Users\\a0909\\Zotero\\storage\\GKPX3M37\\Baruch 等。 - 2022 - A methodology for training homomorphicencryption f.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://arxiv.org/abs/2111.03362
+      \endverb
+      \verb{url}
+      \verb http://arxiv.org/abs/2111.03362
+      \endverb
+      \keyw{Computer Science - Machine Learning,Computer Science - Cryptography and Security}
+    \endentry
+    \entry{mercado_data_2023}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=7d2332835bf59fb8333300e1d43024fe}{%
+           family={Mercado},
+           familyi={M\bibinitperiod},
+           given={Rocío},
+           giveni={R\bibinitperiod}}}%
+        {{hash=2e7558ecd8c19a73fadd0a25530b94be}{%
+           family={Kearnes},
+           familyi={K\bibinitperiod},
+           given={Steven\bibnamedelima M.},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=85ad2ee11d862ab56d14ae9541c11677}{%
+           family={Coley},
+           familyi={C\bibinitperiod},
+           given={Connor\bibnamedelima W.},
+           giveni={C\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \strng{namehash}{8599d934706c3884ed887350132bdcf8}
+      \strng{fullhash}{e741bbfaa0720139877fa419880f86bc}
+      \strng{fullhashraw}{e741bbfaa0720139877fa419880f86bc}
+      \strng{bibnamehash}{e741bbfaa0720139877fa419880f86bc}
+      \strng{authorbibnamehash}{e741bbfaa0720139877fa419880f86bc}
+      \strng{authornamehash}{8599d934706c3884ed887350132bdcf8}
+      \strng{authorfullhash}{e741bbfaa0720139877fa419880f86bc}
+      \strng{authorfullhashraw}{e741bbfaa0720139877fa419880f86bc}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{, The past decade has seen a number of impressive developments in predictive chemistry and reaction informatics driven by machine learning applications to computer-aided synthesis planning. While many of these developments have been made even with relatively small, bespoke data sets, in order to advance the role of {AI} in the field at scale, there must be significant improvements in the reporting of reaction data. Currently, the majority of publicly available data is reported in an unstructured format and heavily imbalanced toward high-yielding reactions, which influences the types of models that can be successfully trained. In this Perspective, we analyze several data curation and sharing initiatives that have seen success in chemistry and molecular biology. We discuss several factors that have contributed to their success and how we can take lessons from these case studies and apply them to reaction data. Finally, we spotlight the Open Reaction Database and summarize key actions the community can take toward making reaction data more findable, accessible, interoperable, and reusable ({FAIR}), including the use of mandates from funding agencies and publishers.}
+      \field{day}{5}
+      \field{issn}{1549-9596}
+      \field{journaltitle}{Journal of Chemical Information and Modeling}
+      \field{month}{7}
+      \field{number}{14}
+      \field{shortjournal}{J Chem Inf Model}
+      \field{shorttitle}{Data Sharing in Chemistry}
+      \field{title}{Data Sharing in Chemistry: Lessons Learned and a Case for Mandating Structured Reaction Data}
+      \field{urlday}{29}
+      \field{urlmonth}{8}
+      \field{urlyear}{2024}
+      \field{volume}{63}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{4253\bibrangedash 4265}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1021/acs.jcim.3c00607
+      \endverb
+      \verb{file}
+      \verb Mercado et al_2023_Data Sharing in Chemistry.pdf:C\:\\Users\\a0909\\Zotero\\storage\\LT4X4ZNZ\\Mercado et al_2023_Data Sharing in Chemistry.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10369484/
+      \endverb
+      \verb{url}
+      \verb https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10369484/
+      \endverb
+    \endentry
+    \entry{mweber_chemical_2021}{article}{}{}
+      \name{author}{5}{}{%
+        {{hash=1e7950377c8cf1d6ce726725315e9b01}{%
+           family={M.\bibnamedelimi Weber},
+           familyi={M\bibinitperiod\bibinitdelim W\bibinitperiod},
+           given={Jana},
+           giveni={J\bibinitperiod}}}%
+        {{hash=593cddc5c4c6c06f101db9ec3eaf35f3}{%
+           family={Guo},
+           familyi={G\bibinitperiod},
+           given={Zhen},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=d5e7a20f56f62ac566342c4772e97430}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Chonghuan},
+           giveni={C\bibinitperiod}}}%
+        {{hash=7cc4674c4e7c3fff4af17b20cd74fb30}{%
+           family={M.\bibnamedelimi Schweidtmann},
+           familyi={M\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={Artur},
+           giveni={A\bibinitperiod}}}%
+        {{hash=f6b60a5e76e8244f9fefa8a691f386fb}{%
+           family={A.\bibnamedelimi Lapkin},
+           familyi={A\bibinitperiod\bibinitdelim L\bibinitperiod},
+           given={Alexei},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{2a8c8b3b04e53a0afefcd27af5b474e1}
+      \strng{fullhash}{f079a9dacc9da74882c854441c070f09}
+      \strng{fullhashraw}{f079a9dacc9da74882c854441c070f09}
+      \strng{bibnamehash}{f079a9dacc9da74882c854441c070f09}
+      \strng{authorbibnamehash}{f079a9dacc9da74882c854441c070f09}
+      \strng{authornamehash}{2a8c8b3b04e53a0afefcd27af5b474e1}
+      \strng{authorfullhash}{f079a9dacc9da74882c854441c070f09}
+      \strng{authorfullhashraw}{f079a9dacc9da74882c854441c070f09}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Chemical Society Reviews}
+      \field{langid}{english}
+      \field{note}{Publisher: Royal Society of Chemistry}
+      \field{number}{21}
+      \field{title}{Chemical data intelligence for sustainable chemistry}
+      \field{urlday}{29}
+      \field{urlmonth}{8}
+      \field{urlyear}{2024}
+      \field{volume}{50}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{12013\bibrangedash 12036}
+      \range{pages}{24}
+      \verb{doi}
+      \verb 10.1039/D1CS00477H
+      \endverb
+      \verb{file}
+      \verb M. Weber et al_2021_Chemical data intelligence for sustainable chemistry.pdf:C\:\\Users\\a0909\\Zotero\\storage\\ACYPWFPR\\M. Weber et al_2021_Chemical data intelligence for sustainable chemistry.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://pubs.rsc.org/en/content/articlelanding/2021/cs/d1cs00477h
+      \endverb
+      \verb{url}
+      \verb https://pubs.rsc.org/en/content/articlelanding/2021/cs/d1cs00477h
+      \endverb
+    \endentry
+    \entry{valdes_co2_2024}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=1f7b1c6fce49c9adbed59ad7434bddd9}{%
+           family={Valdés},
+           familyi={V\bibinitperiod},
+           given={Álvaro},
+           giveni={Á\bibinitperiod}}}%
+        {{hash=e497520ad208f2225c177198512f69a8}{%
+           family={Prosmiti},
+           familyi={P\bibinitperiod},
+           given={Rita},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{e8c9ffedaf1b306be89c599d5670a5a0}
+      \strng{fullhash}{e8c9ffedaf1b306be89c599d5670a5a0}
+      \strng{fullhashraw}{e8c9ffedaf1b306be89c599d5670a5a0}
+      \strng{bibnamehash}{e8c9ffedaf1b306be89c599d5670a5a0}
+      \strng{authorbibnamehash}{e8c9ffedaf1b306be89c599d5670a5a0}
+      \strng{authornamehash}{e8c9ffedaf1b306be89c599d5670a5a0}
+      \strng{authorfullhash}{e8c9ffedaf1b306be89c599d5670a5a0}
+      \strng{authorfullhashraw}{e8c9ffedaf1b306be89c599d5670a5a0}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{We present new results on the underlying guest–host interactions and spectral characterization of a {CO}2 molecule confined in the cages of the {sI} clathrate hydrate. Such types of porous solids raise computational challenges, as they are of practical interest as gas storage/capture materials. Accordingly, we have directed our efforts toward addressing their modeling in a proper manner, ensuring the quality of the input data and the efficiency of the computational approaches. The computational procedure for spectral simulations, within the multi-configurational time-dependent Hartree framework, involves the development of a fully coupled Hamiltonian, including an exact kinetic energy operator and a many-body representation of the potential, along with dipole moment surfaces, both obtained through neural network machine learning techniques. The resulting models were automatically trained and tested on extensive datasets generated by {PW}86PBE-{XDM} calculations, following the outcome of previous benchmark studies. Our simulations enable us to explore various aspects of the quantized dynamics upon confinement of {CO}2@D/T, such as constrained rotational–translational quantum motions and the averaged position/orientation of the {CO}2 guest in comparison to the experimental data available. Particularly notable are the distinct energy patterns observed in the computed spectra for the confined {CO}2 in the D and T cages, with a considerably high rotational–translational coupling in the {CO}2@T case. Leveraging reliable computations has proved instrumental, highlighting the sensitivity of the spectral features to the shape and strength of the potential interactions, with the explicit description of many-body contributions being significant.}
+      \field{day}{14}
+      \field{issn}{0021-9606, 1089-7690}
+      \field{journaltitle}{The Journal of Chemical Physics}
+      \field{langid}{english}
+      \field{month}{5}
+      \field{number}{18}
+      \field{shorttitle}{{CO}2 inside {sI} clathrate-like cages}
+      \field{title}{{CO}2 inside {sI} clathrate-like cages: Automated construction of neural network/machine learned guest–host potential and quantum spectra computations}
+      \field{urlday}{29}
+      \field{urlmonth}{8}
+      \field{urlyear}{2024}
+      \field{volume}{160}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{184304}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1063/5.0210866
+      \endverb
+      \verb{file}
+      \verb Valdés 與 Prosmiti - 2024 - CO2 inside sI clathrate-like cages Automated cons.pdf:C\:\\Users\\a0909\\Zotero\\storage\\4G7QP6PS\\Valdés 與 Prosmiti - 2024 - CO2 inside sI clathrate-like cages Automated cons.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://pubs.aip.org/jcp/article/160/18/184304/3291505/CO2-inside-sI-clathrate-like-cages-Automated
+      \endverb
+      \verb{url}
+      \verb https://pubs.aip.org/jcp/article/160/18/184304/3291505/CO2-inside-sI-clathrate-like-cages-Automated
+      \endverb
+    \endentry
+    \entry{chitrapu_survey_2023}{inproceedings}{}{}
+      \name{author}{2}{}{%
+        {{hash=35dc7614c572d8b34b218630ea5e89f0}{%
+           family={Chitrapu},
+           familyi={C\bibinitperiod},
+           given={Pavani},
+           giveni={P\bibinitperiod}}}%
+        {{hash=398f28d0fd66cdf35c8eb33615dd4a09}{%
+           family={Kalluri},
+           familyi={K\bibinitperiod},
+           given={Hemanth\bibnamedelima Kumar},
+           giveni={H\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \strng{namehash}{7e7196d2421da2903788cbf3788236e1}
+      \strng{fullhash}{7e7196d2421da2903788cbf3788236e1}
+      \strng{fullhashraw}{7e7196d2421da2903788cbf3788236e1}
+      \strng{bibnamehash}{7e7196d2421da2903788cbf3788236e1}
+      \strng{authorbibnamehash}{7e7196d2421da2903788cbf3788236e1}
+      \strng{authornamehash}{7e7196d2421da2903788cbf3788236e1}
+      \strng{authorfullhash}{7e7196d2421da2903788cbf3788236e1}
+      \strng{authorfullhashraw}{7e7196d2421da2903788cbf3788236e1}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Recent years have seen increased interest in research on biometric template protection due to the widespread use of biometric authentication systems. For providing security to biometric templates, there is a procedure known as Fully Homomorphic Encryption that protects biometric templates from the malicious server environment. Users have more customization options with a biometric authentication system than a password or token. The most popular biometric modalities include fingerprints, iris scans, facial images, etc. Biometric modalities offer security on {IoMT} -based systems. Face recognition is one of the most often utilized biometric authentication methods in societal structure. Face recognition technology has made enormous strides in recent years. Here, we examine the viability of securing a database of iris templates using a methodology based on fully homomorphic Encryption. By directly matching templates in the encrypted domain, this framework is designed to protect confidentiality and restrict information from leaking from the templates while preserving their utility. We also investigate various classification techniques on machine learning models to achieve improved accuracy with shorter execution times. The aggregate verification vector assists in confirming the accuracy of the computed classification result, and the {CKKS} technique ensures confidentiality for the biometric templates. This study provides a plethora of information on fully homomorphic biometric authentication, containing a wide assortment of algorithms that satisfy homomorphic Encryption and various methods for extracting the biometric-related template.}
+      \field{booktitle}{2023 {IEEE} International Students' Conference on Electrical, Electronics and Computer Science ({SCEECS})}
+      \field{eventtitle}{2023 {IEEE} International Students' Conference on Electrical, Electronics and Computer Science ({SCEECS})}
+      \field{month}{2}
+      \field{note}{{ISSN}: 2688-0288}
+      \field{title}{A Survey on Homomorphic Encryption for Biometrics Template Security Based on Machine Learning Models}
+      \field{urlday}{2}
+      \field{urlmonth}{9}
+      \field{urlyear}{2024}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{1\bibrangedash 6}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1109/SCEECS57921.2023.10062968
+      \endverb
+      \verb{file}
+      \verb Chitrapu_Kalluri_2023_A Survey on Homomorphic Encryption for Biometrics Template Security Based on.pdf:C\:\\Users\\a0909\\Zotero\\storage\\J58BBTN5\\Chitrapu_Kalluri_2023_A Survey on Homomorphic Encryption for Biometrics Template Security Based on.pdf:application/pdf;IEEE Xplore Abstract Record:C\:\\Users\\a0909\\Zotero\\storage\\5KXMQMQS\\10062968.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://ieeexplore.ieee.org/document/10062968/?arnumber=10062968
+      \endverb
+      \verb{url}
+      \verb https://ieeexplore.ieee.org/document/10062968/?arnumber=10062968
+      \endverb
+      \keyw{Machine learning,Authentication,Biological system modeling,Biometrics,Biometrics (access control),{CKKS} Encryption Scheme,Computational modeling,Computer science,Face recognition,Fully Homomorphic Encryption}
+    \endentry
+    \entry{arman_comprehensive_2024}{article}{}{}
+      \name{author}{6}{}{%
+        {{hash=b913c96d2bccfb99d1da7722435d3cf0}{%
+           family={Arman},
+           familyi={A\bibinitperiod},
+           given={Shahriar\bibnamedelima Md},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=30dbf96c2effbc0427e80f15e466813e}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Tao},
+           giveni={T\bibinitperiod}}}%
+        {{hash=81c15a8eb0d928674f689beb7fb60d8d}{%
+           family={Shahed},
+           familyi={S\bibinitperiod},
+           given={Shahadat},
+           giveni={S\bibinitperiod}}}%
+        {{hash=bbe5f8d9896777acbc96740c2b586417}{%
+           family={Mazroa},
+           familyi={M\bibinitperiod},
+           given={Alanoud\bibnamedelima Al},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=6e2d3dd999f0bb3344ab872e8dcd9922}{%
+           family={Attiah},
+           familyi={A\bibinitperiod},
+           given={Afraa},
+           giveni={A\bibinitperiod}}}%
+        {{hash=e5a9d7b32490c344b6d0ccf61fafad39}{%
+           family={Mohaisen},
+           familyi={M\bibinitperiod},
+           given={Linda},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{734e773ef182ea7361e82c2edc7225d5}
+      \strng{fullhash}{41aa7466e6db4d690a078ec2404214ca}
+      \strng{fullhashraw}{41aa7466e6db4d690a078ec2404214ca}
+      \strng{bibnamehash}{41aa7466e6db4d690a078ec2404214ca}
+      \strng{authorbibnamehash}{41aa7466e6db4d690a078ec2404214ca}
+      \strng{authornamehash}{734e773ef182ea7361e82c2edc7225d5}
+      \strng{authorfullhash}{41aa7466e6db4d690a078ec2404214ca}
+      \strng{authorfullhashraw}{41aa7466e6db4d690a078ec2404214ca}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{The rapid growth of smart technologies and services has intensified the challenges surrounding identity authentication techniques. Biometric credentials are increasingly being used for verification due to their advantages over traditional methods, making it crucial to safeguard the privacy of people’s biometric data in various scenarios. This paper offers an in-depth exploration for privacy-preserving techniques and potential threats to biometric systems. It proposes a noble and thorough taxonomy survey for privacy-preserving techniques, as well as a systematic framework for categorizing the field’s existing literature. We review the state-of-the-art methods and address their advantages and limitations in the context of various biometric modalities, such as face, fingerprint, and eye detection. The survey encompasses various categories of privacy-preserving mechanisms and examines the tradeoffs between security, privacy, and recognition performance, as well as the issues and future research directions. It aims to provide researchers, professionals, and decision-makers with a thorough understanding of the existing privacy-preserving solutions in biometric recognition systems and serves as the foundation of the development of more secure and privacy-preserving biometric technologies.}
+      \field{issn}{1546-2226}
+      \field{journaltitle}{Computers, Materials \& Continua}
+      \field{langid}{english}
+      \field{number}{2}
+      \field{shortjournal}{{CMC}}
+      \field{shorttitle}{A Comprehensive Survey for Privacy-Preserving Biometrics}
+      \field{title}{A Comprehensive Survey for Privacy-Preserving Biometrics: Recent Approaches, Challenges, and Future Directions}
+      \field{urlday}{2}
+      \field{urlmonth}{9}
+      \field{urlyear}{2024}
+      \field{volume}{78}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{2087\bibrangedash 2110}
+      \range{pages}{24}
+      \verb{doi}
+      \verb 10.32604/cmc.2024.047870
+      \endverb
+      \verb{file}
+      \verb Arman 等。 - 2024 - A Comprehensive Survey for Privacy-Preserving Biom.pdf:C\:\\Users\\a0909\\Zotero\\storage\\W9WB3HDU\\Arman 等。 - 2024 - A Comprehensive Survey for Privacy-Preserving Biom.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.techscience.com/cmc/v78n2/55584
+      \endverb
+      \verb{url}
+      \verb https://www.techscience.com/cmc/v78n2/55584
+      \endverb
+    \endentry
+    \entry{noauthor_cmc_nodate}{online}{}{}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labeltitlesource}{title}
+      \field{title}{{CMC} {|} A Comprehensive Survey for Privacy-Preserving Biometrics: Recent Approaches, Challenges, and Future Directions}
+      \field{urlday}{2}
+      \field{urlmonth}{9}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://www.techscience.com/cmc/v78n2/55584
+      \endverb
+      \verb{url}
+      \verb https://www.techscience.com/cmc/v78n2/55584
+      \endverb
+    \endentry
+    \entry{zhu_confidential_2024}{misc}{}{}
+      \name{author}{4}{}{%
+        {{hash=2ca83918ad0056d632800b0ade120208}{%
+           family={Zhu},
+           familyi={Z\bibinitperiod},
+           given={Jianwei},
+           giveni={J\bibinitperiod}}}%
+        {{hash=77767a8ffc26a7be0f529d6f3c2fa70e}{%
+           family={Yin},
+           familyi={Y\bibinitperiod},
+           given={Hang},
+           giveni={H\bibinitperiod}}}%
+        {{hash=fa58c2c2178c99de90176cf4b2a16ba0}{%
+           family={Deng},
+           familyi={D\bibinitperiod},
+           given={Peng},
+           giveni={P\bibinitperiod}}}%
+        {{hash=b13a039e0816e0b51f076383382b351c}{%
+           family={Zhou},
+           familyi={Z\bibinitperiod},
+           given={Shunfan},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {arXiv}%
+      }
+      \strng{namehash}{109dcfdbb1a851ea4006fbd289230fc0}
+      \strng{fullhash}{06e0b98ad0ed9b254a9ca9180c3017de}
+      \strng{fullhashraw}{06e0b98ad0ed9b254a9ca9180c3017de}
+      \strng{bibnamehash}{06e0b98ad0ed9b254a9ca9180c3017de}
+      \strng{authorbibnamehash}{06e0b98ad0ed9b254a9ca9180c3017de}
+      \strng{authornamehash}{109dcfdbb1a851ea4006fbd289230fc0}
+      \strng{authorfullhash}{06e0b98ad0ed9b254a9ca9180c3017de}
+      \strng{authorfullhashraw}{06e0b98ad0ed9b254a9ca9180c3017de}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{This report evaluates the performance impact of enabling Trusted Execution Environments ({TEE}) on {nVIDIA} H100 {GPUs} for large language model ({LLM}) inference tasks. We benchmark the overhead introduced by {TEE} mode across various {LLMs} and token lengths, with a particular focus on the bottleneck caused by {CPU}-{GPU} data transfers via {PCIe}. Our results indicate that while there is minimal computational overhead within the {GPU}, the overall performance penalty is primarily attributable to data transfer. For the majority of typical {LLM} queries, the overhead remains below 5\%, with larger models and longer sequences experiencing nearly zero overhead.}
+      \field{day}{13}
+      \field{eprinttype}{arxiv}
+      \field{month}{9}
+      \field{number}{{arXiv}:2409.03992}
+      \field{shorttitle}{Confidential Computing on {nVIDIA} H100 {GPU}}
+      \field{title}{Confidential Computing on {nVIDIA} H100 {GPU}: A Performance Benchmark Study}
+      \field{urlday}{27}
+      \field{urlmonth}{9}
+      \field{urlyear}{2024}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.48550/arXiv.2409.03992
+      \endverb
+      \verb{eprint}
+      \verb 2409.03992 [cs]
+      \endverb
+      \verb{file}
+      \verb arXiv.org Snapshot:C\:\\Users\\a0909\\Zotero\\storage\\FTW8MW6S\\2409.html:text/html;Zhu et al_2024_Confidential Computing on nVIDIA H100 GPU.pdf:C\:\\Users\\a0909\\Zotero\\storage\\IAQIL422\\Zhu et al_2024_Confidential Computing on nVIDIA H100 GPU.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://arxiv.org/abs/2409.03992
+      \endverb
+      \verb{url}
+      \verb http://arxiv.org/abs/2409.03992
+      \endverb
+      \keyw{Computer Science - Artificial Intelligence,Computer Science - Distributed,Parallel,and Cluster Computing,Computer Science - Performance}
+    \endentry
+    \entry{kruijssen_allora_nodate}{article}{}{}
+      \name{author}{6}{}{%
+        {{hash=c502561095ddd7a8c74be4d683f0c488}{%
+           family={Kruijssen},
+           familyi={K\bibinitperiod},
+           given={J\bibnamedelima M\bibnamedelima Diederik},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=9826cb55021d24f98ad8d91ad354b43a}{%
+           family={Emmons},
+           familyi={E\bibinitperiod},
+           given={Nicholas},
+           giveni={N\bibinitperiod}}}%
+        {{hash=4cebb07cb18806c57a42df5d3c0c3dbd}{%
+           family={Peluso},
+           familyi={P\bibinitperiod},
+           given={Kenneth},
+           giveni={K\bibinitperiod}}}%
+        {{hash=5d1dda65a8e3ecbb1e5488aede14d8dc}{%
+           family={Ghaffar},
+           familyi={G\bibinitperiod},
+           given={Faisal},
+           giveni={F\bibinitperiod}}}%
+        {{hash=9fc1c1eace167d9124bb8ec908b7697e}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={Alexander},
+           giveni={A\bibinitperiod}}}%
+        {{hash=a00e8299eb2d1559dd266a1da1b36924}{%
+           family={Kell},
+           familyi={K\bibinitperiod},
+           given={Tyler},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{c0db3073b12654b604ee8e3b0dfab536}
+      \strng{fullhash}{08af5e5c0a5c298ad3e22425080444ef}
+      \strng{fullhashraw}{08af5e5c0a5c298ad3e22425080444ef}
+      \strng{bibnamehash}{08af5e5c0a5c298ad3e22425080444ef}
+      \strng{authorbibnamehash}{08af5e5c0a5c298ad3e22425080444ef}
+      \strng{authornamehash}{c0db3073b12654b604ee8e3b0dfab536}
+      \strng{authorfullhash}{08af5e5c0a5c298ad3e22425080444ef}
+      \strng{authorfullhashraw}{08af5e5c0a5c298ad3e22425080444ef}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Recent advances in data access and computing power have enabled the first forms of machine intelligence capable of offering meaningful insights. However, the tremendous resources required have caused these solutions to be closed and siloed by industry monoliths. To achieve the full potential of machine intelligence, the data, algorithms, and participants must be maximally connected. Network solutions are needed, and the decentralized nature of blockchain technology is ideal for solving this problem. We introduce Allora, a self-improving, decentralized machine intelligence network that surpasses the capabilities of its individual participants by design. Allora achieves this through two main innovations. First, it lets network participants forecast each other’s performance under the current conditions, thereby creating a form of context-awareness that enables the network to achieve the best inferences under any circumstances. Second, it introduces a differentiated incentive structure that rewards network participants for their unique contribution to the network goal, tailored to their specific task and purpose, avoiding any distracting incentives. We show that these innovations make Allora’s inferences considerably more accurate than before. With its versatility and accessibility, Allora paves the way for machine intelligence to become fully commoditized and integrated with the economy, technology, and society.}
+      \field{langid}{english}
+      \field{title}{Allora: a Self-Improving, Decentralized Machine Intelligence Network}
+      \true{nocite}
+      \verb{file}
+      \verb Kruijssen 等。 - Allora a Self-Improving, Decentralized Machine In.pdf:C\:\\Users\\a0909\\Zotero\\storage\\5NQNN8LA\\Kruijssen 等。 - Allora a Self-Improving, Decentralized Machine In.pdf:application/pdf
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
 \endinput
 

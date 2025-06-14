@@ -1,0 +1,6 @@
+PWD /home/yu2c/gitclone/TW_Thesis_Template/NTNU_en
+INPUT /usr/local/texlive/2025/texmf.cnf
+INPUT /usr/local/texlive/2025/texmf-dist/web2c/texmf.cnf
+INPUT /usr/local/texlive/2025/texmf-var/web2c/pdftex/pdflatex.fmt
+INPUT /home/yu2c/gitclone/TW_Thesis_Template/NTNU_en/titlepage_en.tex
+OUTPUT titlepage_en.log
