@@ -1,10 +1,10 @@
-# National Central University LaTeX Template of Thesis (English)
+# National Taiwan Normal University LaTeX Template of Thesis (English)
 There is no English document yet. Please see README.md in NCU_zh.
 
 ## Usage
 See [Wiki](https://github.com/sppmg/TW_Thesis_Template/wiki) of this project.
 
-Or start from [brainless](https://github.com/sppmg/TW_Thesis_Template/wiki/%E7%84%A1%E8%85%A6%E6%89%8B%E5%86%8A) .
+Directly modifying this template and fill your content.
 
 ## Information about thesis
 
